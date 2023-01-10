@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💻Web developer.<br>knowledge in technologies such as:<br>Nodejs, React, Express, MongoDB, TypeScript,,mySQL.
+💻Web developer.<br>knowledge in technologies such as:<br>Nodejs, React, Express, MongoDB, TypeScript ,mySQL.
 
 
 ## 🌐 Socials:
