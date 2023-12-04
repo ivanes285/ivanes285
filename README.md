@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Iván Lescano</h1>
 
 # 💫 About Me:
-💻Web developer.<br>knowledge in technologies such as:<br>Nodejs, React, Express, MongoDB, TypeScript ,mySQL.
+💻Web developer.<br>knowledge in technologies such as:<br>Nodejs, React, Express, MongoDB, TypeScript ,mySQL, springboot, mariaDB.
 
 
 ## 🌐 Socials:
